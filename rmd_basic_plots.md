@@ -1,7 +1,7 @@
 Basic Plots
 ================
-Jeff Goldsmith
-2019-09-10
+Tanmayi Amanchi
+2024-09-13
 
 The purpose of this file is to present a couple of basic plots using
 `ggplot`.
